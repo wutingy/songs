@@ -1,5 +1,6 @@
 import type { Album } from '../types';
 import cohenCover from '../assets/Songs-of-Leonard Cohen.jpg';
+import songsFromARoomCover from '../assets/songs-from-a-room.jpg';
 
 export const ALBUMS: Album[] = [
   {
@@ -879,6 +880,686 @@ But you stand there so nice, in your blizzard of ice,
 但你就那樣優雅地站在那裡，在你的冰雪風暴中，
 oh please let me come into the storm.
 噢，請讓我也進入那場風暴吧。`,
+      },
+    ],
+  },
+  {
+    slug: 'songs-from-a-room',
+    title: 'Songs from a Room',
+    artist: 'Leonard Cohen',
+    year: 1969,
+    color: '#7c6a56',
+    coverImage: songsFromARoomCover,
+    songs: [
+      {
+        slug: 'bird-on-the-wire',
+        title: 'Bird on the Wire',
+        titleZh: '電線上的鳥',
+        lyrics: `Like a bird on the wire,
+像電線上的一隻鳥，
+like a drunk in a midnight choir
+像午夜唱詩班裡的一個醉鬼
+I have tried in my way to be free.
+我以我的方式嘗試過自由。
+Like a worm on a hook,
+像魚鉤上的一條蟲，
+like a knight from some old fashioned book
+像某本老套書裡的一位騎士
+I have saved all my ribbons for thee.
+我將所有的絲帶都留給了你。
+If I, if I have been unkind,
+如果我，如果我曾經殘忍，
+I hope that you can just let it go by.
+我希望你能就此放過。
+If I, if I have been untrue
+如果我，如果我曾經不忠
+I hope you know it was never to you.
+我希望你知道那從來不是針對你的。
+Like a baby, stillborn,
+像一個死胎，
+like a beast with his horn
+像一頭長著角的獸
+I have torn everyone who reached out for me.
+我撕裂了每一個向我伸出手的人。
+But I swear by this song
+但我以這首歌發誓
+and by all that I have done wrong
+並以我所做的一切過錯發誓
+I will make it all up to thee.
+我將全部補償給你。
+I saw a beggar leaning on his wooden crutch,
+我看見一個乞丐倚靠著他的木拐，
+he said to me, "You must not ask for so much."
+他對我說：「你不能要求那麼多。」
+And a pretty woman leaning in her darkened door,
+還有一個漂亮的女人靠在她昏暗的門口，
+she cried to me, "Hey, why not ask for more?"
+她向我喊道：「嘿，為何不多要一些呢？」
+
+Oh like a bird on the wire,
+噢，像電線上的一隻鳥，
+like a drunk in a midnight choir
+像午夜唱詩班裡的一個醉鬼
+I have tried in my way to be free.
+我以我的方式嘗試過自由。`,
+      },
+      {
+        slug: 'story-of-isaac',
+        title: 'Story of Isaac',
+        titleZh: '以撒的故事',
+        lyrics: `The door it opened slowly,
+那扇門緩緩地打開，
+my father he came in,
+我的父親走了進來，
+I was nine years old.
+我那時九歲。
+And he stood so tall above me,
+他高高地站在我上方，
+his blue eyes they were shining
+他的藍眼睛閃閃發光
+and his voice was very cold.
+而他的聲音非常冰冷。
+He said, "I've had a vision
+他說：「我得到了一個異象
+and you know I'm strong and holy,
+你知道我既強大又神聖，
+I must do what I've been told."
+我必須做我被告知要做的事。」
+So he started up the mountain,
+於是他開始登山，
+I was running, he was walking,
+我在跑，他在走，
+and his axe was made of gold.
+而他的斧頭是用黃金打造的。
+Well, the trees they got much smaller,
+樹木變得越來越小，
+the lake a lady's mirror,
+湖水成了一面女士的鏡子，
+we stopped to drink some wine.
+我們停下來喝了些酒。
+Then he threw the bottle over.
+然後他把瓶子扔了出去。
+Broke a minute later
+一分鐘後破碎了
+and he put his hand on mine.
+他把手放在了我的手上。
+Thought I saw an eagle
+我以為我看見了一隻老鷹
+but it might have been a vulture,
+但那可能是一隻禿鷲，
+I never could decide.
+我一直無法判斷。
+Then my father built an altar,
+接著我父親建了一座祭壇，
+he looked once behind his shoulder,
+他回頭看了一眼，
+he knew I would not hide.
+他知道我不會躲藏。
+
+You who build these altars now
+你們這些現在築起祭壇的人
+to sacrifice these children,
+為了犧牲這些孩子，
+you must not do it anymore.
+你們不可以再這樣做了。
+A scheme is not a vision
+一個計謀不是異象
+and you never have been tempted
+而你從未被誘惑過
+by a demon or a god.
+被魔鬼或神明所誘惑。
+You who stand above them now,
+你們這些現在凌駕他們之上的人，
+your hatchets blunt and bloody,
+你們的小斧鈍了且沾血，
+you were not there before,
+你們以前並不在場，
+when I lay upon a mountain
+當我躺在山上
+and my father's hand was trembling
+而我父親的手在顫抖
+with the beauty of the word.
+因著那話語的美麗。
+
+And if you call me brother now,
+如果你現在稱我為兄弟，
+forgive me if I inquire,
+若我追問請原諒，
+"Just according to whose plan?"
+「究竟是按照誰的計畫？」
+When it all comes down to dust
+當一切化為塵土
+I will kill you if I must,
+若我不得不，我會殺了你，
+I will help you if I can.
+若我能夠，我會幫助你。
+When it all comes down to dust
+當一切化為塵土
+I will help you if I must,
+若我不得不，我會幫助你，
+I will kill you if I can.
+若我能夠，我會殺了你。
+And mercy on our uniform,
+願慈悲降臨我們的制服，
+man of peace or man of war,
+無論是和平之人還是戰爭之人，
+the peacock spreads his fan.
+孔雀展開了他的羽扇。`,
+      },
+      {
+        slug: 'a-bunch-of-lonesome-heroes',
+        title: 'A Bunch of Lonesome Heroes',
+        titleZh: '一群孤獨的英雄',
+        lyrics: `A bunch of lonesome and very quarrelsome heroes
+一群孤獨且極為好鬥的英雄
+were smoking out along the open road;
+在開闊的道路上抽著煙；
+the night was very dark and thick between them,
+夜色在他們之間濃黑稠密，
+each man beneath his ordinary load.
+每個人背負著各自的平凡重擔。
+"I'd like to tell my story,"
+「我想說出我的故事，」
+said one of them so young and bold,
+其中一個年輕氣盛的說道，
+"I'd like to tell my story,
+「我想說出我的故事，
+before I turn into gold."
+在我變成黃金之前。」
+But no one really could hear him,
+但沒有人真的能聽見他，
+the night so dark and thick and green;
+夜色如此黑暗、濃稠而幽綠；
+well I guess that these heroes must always live there
+我想這些英雄必定永遠活在那裡
+where you and I have only been.
+在那個你我僅僅到訪過的地方。
+Put out your cigarette, my love,
+掐滅你的香煙，我的愛，
+you've been alone too long;
+你已獨處太久；
+and some of us are very hungry now
+而我們之中有些人現在非常渴望
+to hear what it is you've done that was so wrong.
+聽聽你究竟做了什麼如此錯誤的事。
+
+I sing this for the crickets,
+我為蟋蟀唱這首歌，
+I sing this for the army,
+我為軍隊唱這首歌，
+I sing this for your children
+我為你的孩子唱這首歌
+and for all who do not need me.
+也為所有不需要我的人。
+"I'd like to tell my story,"
+「我想說出我的故事，」
+said one of them so bold,
+其中一個如此大膽的說道，
+"Oh yes, I'd like to tell my story
+「噢是的，我想說出我的故事
+'cause you know I feel I'm turning into gold."
+因為你知道我感覺我正在變成黃金。」`,
+      },
+      {
+        slug: 'the-partisan',
+        title: 'The Partisan',
+        titleZh: '游擊隊員',
+        lyrics: `When they poured across the border
+當他們湧過邊界
+I was cautioned to surrender,
+我被告誡要投降，
+this I could not do;
+這我辦不到；
+I took my gun and vanished.
+我拿起槍消失了。
+I have changed my name so often,
+我已換過太多次名字，
+I've lost my wife and children
+我失去了妻子和孩子
+but I have many friends,
+但我有許多朋友，
+and some of them are with me.
+其中一些就在我身邊。
+
+An old woman gave us shelter,
+一位老婦人給了我們庇護，
+kept us hidden in the garret,
+把我們藏在閣樓裡，
+then the soldiers came;
+然後士兵們來了；
+she died without a whisper.
+她無聲無息地死去了。
+
+There were three of us this morning
+今天早上我們有三個人
+I'm the only one this evening
+到了這個傍晚只剩我一個
+but I must go on;
+但我必須繼續前行；
+the frontiers are my prison.
+邊境是我的囚籠。
+
+Oh, the wind, the wind is blowing,
+噢，風，風在吹拂，
+through the graves the wind is blowing,
+穿過墳墓，風在吹拂，
+freedom soon will come;
+自由很快就會來臨；
+then we'll come from the shadows.
+那時我們將從陰影中走出。
+
+Les Allemands étaient chez moi,
+德軍曾在我家，
+ils me dirent, resigne-toi,
+他們告訴我放棄抵抗，
+mais je n'ai pas pu;
+但我辦不到；
+j'ai repris mon arme.
+我重新拿起了武器。
+
+J'ai changé cent fois de nom,
+我已換過百次名字，
+j'ai perdu femme et enfants
+我失去了妻子和孩子
+mais j'ai tant d'amis;
+但我有如此多的朋友；
+j'ai la France entière.
+整個法蘭西都是我的。
+
+Un vieil homme dans un grenier
+一位老人在閣樓裡
+pour la nuit nous a cachés,
+整夜藏匿了我們，
+les Allemands l'ont pris;
+德軍帶走了他；
+Il est mort sans surprise.
+他平靜地死去了。
+
+Oh, the wind, the wind is blowing,
+噢，風，風在吹拂，
+through the graves the wind is blowing,
+穿過墳墓，風在吹拂，
+freedom soon will come;
+自由很快就會來臨；
+then we'll come from the shadows.
+那時我們將從陰影中走出。`,
+      },
+      {
+        slug: 'seems-so-long-ago-nancy',
+        title: 'Seems So Long Ago, Nancy',
+        titleZh: '那好像是很久以前，南希',
+        lyrics: `It seems so long ago,
+那好像是很久以前的事了，
+Nancy was alone,
+南希獨自一人，
+looking at the Late Late show
+看著深夜節目
+through a semi-precious stone.
+透過一塊半寶石。
+In the House of Honesty
+在誠實之屋
+her father was on trial,
+她的父親正接受審判，
+in the House of Mystery
+在神秘之屋
+there was no one at all,
+根本無人，
+there was no one at all.
+根本無人。
+It seems so long ago,
+那好像是很久以前的事了，
+none of us were strong;
+我們沒有一個是強壯的；
+Nancy wore green stockings
+南希穿著綠色絲襪
+and she slept with everyone.
+而她與每個人同床。
+She never said she'd wait for us
+她從未說過她會等我們
+although she was alone,
+儘管她是孤身一人，
+I think she fell in love for us
+我想她是代我們墜入了愛河
+in nineteen sixty one,
+在一九六一年，
+in nineteen sixty one.
+在一九六一年。
+
+It seems so long ago,
+那好像是很久以前的事了，
+Nancy was alone,
+南希獨自一人，
+a forty five beside her head,
+她頭旁放著一把四五口徑手槍，
+an open telephone.
+還有一支未掛斷的電話。
+We told her she was beautiful,
+我們告訴她她很美麗，
+we told her she was free
+我們告訴她她是自由的
+but none of us would meet her in
+但我們沒有一個人願意在
+the House of Mystery,
+神秘之屋中與她相遇，
+the House of Mystery.
+神秘之屋。
+
+And now you look around you,
+而現在你環顧四周，
+see her everywhere,
+到處都看見她，
+many use her body,
+許多人使用她的身體，
+many comb her hair.
+許多人梳理她的頭髮。
+In the hollow of the night
+在夜晚的空洞中
+when you are cold and numb
+當你冰冷麻木
+you hear her talking freely then,
+你就會聽見她自由地說話，
+she's happy that you've come,
+她很高興你來了，
+she's happy that you've come.
+她很高興你來了。`,
+      },
+      {
+        slug: 'the-old-revolution',
+        title: 'The Old Revolution',
+        titleZh: '舊革命',
+        lyrics: `I finally broke into the prison,
+我終於闖進了監獄，
+I found my place in the chain.
+我找到了我在鎖鏈中的位置。
+Even damnation is poisoned with rainbows,
+就連詛咒也被彩虹毒化了，
+all the brave young men
+所有勇敢的年輕人
+they're waiting now to see a signal
+他們現在正在等待看到一個信號
+which some killer will be lighting for pay.
+那是某個受雇殺手將要點燃的。
+Into this furnace I ask you now to venture,
+我現在請求你冒險進入這熔爐，
+you whom I cannot betray.
+你這個我無法背叛的人。
+
+I fought in the old revolution
+我曾在舊革命中戰鬥
+on the side of the ghost and the King.
+站在幽靈和國王那邊。
+Of course I was very young
+當然我那時非常年輕
+and I thought that we were winning;
+而我以為我們正在獲勝；
+I can't pretend I still feel very much like singing
+我無法假裝自己還很想唱歌
+as they carry the bodies away.
+當他們將屍體抬走的時候。
+
+Into this furnace I ask you now to venture...
+我現在請求你冒險進入這熔爐……
+
+Lately you've started to stutter
+最近你開始結巴
+as though you had nothing to say.
+彷彿你無話可說。
+To all of my architects let me be traitor.
+對我所有的建築師讓我成為叛徒。
+Now let me say I myself gave the order
+現在讓我說，是我自己下令
+to sleep and to search and to destroy.
+去沉睡，去搜索，去摧毀。
+
+Into this furnace I ask you now to venture...
+我現在請求你冒險進入這熔爐……
+
+Yes, you who are broken by power,
+是的，你這個被權力壓垮的人，
+you who are absent all day,
+你這個整天缺席的人，
+you who are kings for the sake of your children's story,
+你這個為了孩子故事而成為國王的人，
+the hand of your beggar is burdened down with money,
+你乞丐的手被金錢壓得沉重，
+the hand of your lover is clay.
+你愛人的手是黏土。
+
+Into this furnace I ask you now to venture...
+我現在請求你冒險進入這熔爐……`,
+      },
+      {
+        slug: 'the-butcher',
+        title: 'The Butcher',
+        titleZh: '屠夫',
+        lyrics: `I came upon a butcher,
+我碰到了一個屠夫，
+he was slaughtering a lamb,
+他正在宰殺一頭羔羊，
+I accused him there
+我在那裡指控他
+with his tortured lamb.
+連同他那被折磨的羔羊。
+He said, "Listen to me, child,
+他說：「聽我說，孩子，
+I am what I am
+我就是我本來的樣子
+and you, you are my only son."
+而你，你是我唯一的兒子。」
+Well, I found a silver needle,
+我找到了一根銀針，
+I put it into my arm.
+我將它插入我的手臂。
+It did some good,
+它有些療效，
+did some harm.
+也造成了一些傷害。
+But the nights were cold
+但夜晚很寒冷
+and it almost kept me warm,
+而它幾乎讓我保持溫暖，
+how come the night is long?
+為何夜晚如此漫長？
+
+I saw some flowers growing up
+我看見一些花朵在生長
+where that lamb fell down;
+就在那頭羔羊倒下的地方；
+was I supposed to praise my Lord,
+我應該讚美我的主嗎，
+make some kind of joyful sound?
+發出某種歡欣的聲音嗎？
+He said, "Listen, listen to me now,
+他說：「聽著，現在聽我說，
+I go round and round
+我周而復始地轉
+and you, you are my only child."
+而你，你是我唯一的孩子。」
+
+Do not leave me now,
+現在不要離開我，
+do not leave me now,
+不要離開我，
+I'm broken down
+我已垮掉了
+from a recent fall.
+因為最近的一次跌倒。
+Blood upon my body
+血跡在我身上
+and ice upon my soul,
+冰寒在我靈魂上，
+lead on, my son, it is your world.
+帶路吧，我的兒子，這是你的世界。`,
+      },
+      {
+        slug: 'you-know-who-i-am',
+        title: 'You Know Who I Am',
+        titleZh: '你知道我是誰',
+        lyrics: `I cannot follow you, my love,
+我無法跟隨你，我的愛，
+you cannot follow me.
+你也無法跟隨我。
+I am the distance you put between
+我是你置於
+all of the moments that we will be.
+我們將會存在的所有時刻之間的那段距離。
+You know who I am,
+你知道我是誰，
+you've stared at the sun,
+你凝視過太陽，
+well I am the one who loves
+我就是那個熱愛
+changing from nothing to one.
+從無到有的蛻變的人。
+
+Sometimes I need you naked,
+有時我需要你赤裸，
+sometimes I need you wild,
+有時我需要你狂野，
+I need you to carry my children in
+我需要你孕育我的孩子
+and I need you to kill a child.
+我也需要你扼殺一個孩子。
+
+You know who I am...
+你知道我是誰……
+
+If you should ever track me down
+如果你有一天追上了我
+I will surrender there
+我就在那裡投降
+and I will leave with you one broken man
+而我會留給你一個破碎的男人
+whom I will teach you to repair.
+我將教你如何修復他。
+
+You know who I am...
+你知道我是誰……
+
+I cannot follow you, my love,
+我無法跟隨你，我的愛，
+you cannot follow me.
+你也無法跟隨我。
+I am the distance you put between
+我是你置於
+all of the moments that we will be.
+我們將會存在的所有時刻之間的那段距離。
+
+You know who I am...
+你知道我是誰……`,
+      },
+      {
+        slug: 'lady-midnight',
+        title: 'Lady Midnight',
+        titleZh: '午夜女士',
+        lyrics: `I came by myself to a very crowded place;
+我獨自來到一個非常擁擠的地方；
+I was looking for someone who had lines in her face.
+我在尋找一個臉上有皺紋的人。
+I found her there but she was past all concern;
+我在那裡找到了她但她已超脫了一切牽掛；
+I asked her to hold me, I said, "Lady, unfold me,"
+我請求她抱住我，我說：「女士，展開我，」
+but she scorned me and she told me
+但她鄙視我，告訴我
+I was dead and I could never return.
+我已死去，再也無法回頭。
+Well, I argued all night like so many have before,
+我整夜爭辯，就像許多人以前做過的那樣，
+saying, "Whatever you give me, I seem to need so much more."
+說：「無論你給我什麼，我似乎需要更多。」
+Then she pointed at me where I kneeled on her floor,
+接著她指向跪在她地板上的我，
+she said, "Don't try to use me or slyly refuse me,
+她說：「不要試圖利用我，也不要狡猾地拒絕我，
+just win me or lose me,
+只管贏得我或失去我，
+it is this that the darkness is for."
+黑暗就是為此而存在的。」
+
+I cried, "Oh, Lady Midnight, I fear that you grow old,
+我喊道：「噢，午夜女士，我擔心你會老去，
+the stars eat your body and the wind makes you cold."
+繁星吞噬你的身體，而風讓你寒冷。」
+"If we cry now," she said, "it will just be ignored."
+「如果我們現在哭泣，」她說，「只會被忽視。」
+So I walked through the morning, sweet early morning,
+於是我走過清晨，甜美的清晨，
+I could hear my lady calling,
+我能聽見我的女士在呼喚，
+"You've won me, you've won me, my lord,
+「你贏得了我，你贏得了我，我的主，
+you've won me, you've won me, my lord,
+你贏得了我，你贏得了我，我的主，
+yes, you've won me, you've won me, my lord,
+是的，你贏得了我，你贏得了我，我的主，
+ah, you've won me, you've won me, my lord,
+啊，你贏得了我，你贏得了我，我的主，
+ah, you've won me, you've won me, my lord."
+啊，你贏得了我，你贏得了我，我的主。」`,
+      },
+      {
+        slug: 'tonight-will-be-fine',
+        title: 'Tonight Will Be Fine',
+        titleZh: '今晚將會美好',
+        lyrics: `Sometimes I find I get to thinking of the past.
+有時我發現自己開始思念過去。
+We swore to each other then that our love would surely last.
+我們那時互相發誓，我們的愛必定長存。
+You kept right on loving, I went on a fast,
+你繼續愛著，而我開始了禁食，
+now I am too thin and your love is too vast.
+現在我太消瘦而你的愛太龐大了。
+But I know from your eyes
+但我從你的眼睛知道
+and I know from your smile
+我從你的微笑知道
+that tonight will be fine,
+今晚將會美好，
+will be fine, will be fine, will be fine
+將會美好，將會美好，將會美好
+for a while.
+一段時間內。
+
+I choose the rooms that I live in with care,
+我仔細選擇我居住的房間，
+the windows are small and the walls almost bare,
+窗戶很小，牆壁幾乎空空如也，
+there's only one bed and there's only one prayer;
+只有一張床，只有一個禱告；
+I listen all night for your step on the stair.
+我整夜聆聽你在樓梯上的腳步聲。
+
+But I know from your eyes
+但我從你的眼睛知道
+and I know from your smile
+我從你的微笑知道
+that tonight will be fine,
+今晚將會美好，
+will be fine, will be fine, will be fine
+將會美好，將會美好，將會美好
+for a while.
+一段時間內。
+
+Oh sometimes I see her undressing for me,
+噢有時我看見她為我寬衣，
+she's the soft naked lady love meant her to be
+她是愛意許定她成為的那個柔軟裸體的女人
+and she's moving her body so brave and so free.
+她的身體如此勇敢自由地移動。
+If I've got to remember that's a fine memory.
+如果我必須記住，那是一段美好的記憶。
+
+And I know from her eyes
+而我從她的眼睛知道
+and I know from her smile
+我從她的微笑知道
+that tonight will be fine,
+今晚將會美好，
+will be fine, will be fine, will be fine
+將會美好，將會美好，將會美好
+for a while.
+一段時間內。`,
       },
     ],
   },
