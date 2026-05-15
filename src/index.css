@@ -111,7 +111,7 @@ body:not(.sidebar-collapsed) .sidebar-backdrop {
 /* Mobile toggle: fixed, outside sidebar, always visible */
 .sidebar-toggle-mobile {
   position: fixed;
-  bottom: 28px; left: 20px;
+  bottom: 28px; right: 20px;
   z-index: 200;
   width: 36px; height: 36px;
   background: var(--surface-strong);
@@ -504,7 +504,7 @@ body:not(.sidebar-collapsed) .sidebar-backdrop {
 .line { display: flex; flex-direction: column; gap: 3px; }
 .line .en {
   font-family: var(--serif);
-  font-size: 21px;
+  font-size: 24px;
   line-height: 1.5;
   color: var(--fg);
   font-weight: 400;
@@ -512,7 +512,7 @@ body:not(.sidebar-collapsed) .sidebar-backdrop {
 }
 .line .zh {
   font-family: var(--serif-tc);
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.65;
   color: var(--muted);
   font-weight: 400;
